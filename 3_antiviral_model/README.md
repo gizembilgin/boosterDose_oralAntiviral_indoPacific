@@ -17,3 +17,6 @@ This folder contains the stochastic component of our paper.
 *(antiviral)(plot) outcomes averted by vax vs antiviral_v3.R* | compares the individual- and population-level impact of different antiviral and booster dose eligiblity strategies
 *(antiviral)(run).R* | runs the antiviral model for adults_with_comorbidities
 *(antiviral)(run) special case pregnant women.R* | runs the antiviral model for pregnant_women
+
+In case visuals help:
+![alt text](antiviral model schema.jpg)
