@@ -1,7 +1,9 @@
 # 3_antiviral_model
 
-This folder contains the stochastic component of our paper.
+## Visual representation ##
+![antiviral model schema.jpg](https://github.com/gizembilgin/indoPacific_COVID19_model/blob/main/3_antiviral_model/antiviral%20model%20schema.png)
 
+## Table breakdown ##
 |Scipt Title| Purpose | 
 | ----------- | ----------- |
 *(antiviral) set up.R* | runs the COVID-19 model with a variety of COVID-19 booster dose eligibility strategies in 2023
@@ -17,6 +19,3 @@ This folder contains the stochastic component of our paper.
 *(antiviral)(plot) outcomes averted by vax vs antiviral_v3.R* | compares the individual- and population-level impact of different antiviral and booster dose eligiblity strategies
 *(antiviral)(run).R* | runs the antiviral model for adults_with_comorbidities
 *(antiviral)(run) special case pregnant women.R* | runs the antiviral model for pregnant_women
-
-In case visuals help:
-![alt text](antiviral model schema.jpg)
