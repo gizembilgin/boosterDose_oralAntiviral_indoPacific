@@ -4,7 +4,7 @@
 library(RColorBrewer)
 options(scipen = 1000)
 
-plot_name = "figure_1" #figure_1, figure_2, figure_S3_1_2,figure_S3_1_3,"figure_S3_2_1","figure_S3_2_3", "figure_S2_4"
+plot_name = "figure_S2_4" #figure_1, figure_2, figure_S3_1_2,figure_S3_1_3,"figure_S3_2_1","figure_S3_2_3", "figure_S2_4"
 plot_list = list()
 
 #LIST_outcomes = list('hosp', 'severe_disease','YLL','death') # for extended plot (SM?)
@@ -27,7 +27,8 @@ if (plot_name ==  "figure_S3_2_3"){
 if (plot_name ==  "figure_S3_2_1"){
   LIST_results = list("doses_per_outcome_averted")
 }
-#copy plot 800 x 600 for paper
+#700 x 800 Figure 1
+#700 x 600 Figure 2
 
 
 ### LOAD
