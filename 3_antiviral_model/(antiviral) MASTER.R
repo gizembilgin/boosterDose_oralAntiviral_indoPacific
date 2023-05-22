@@ -1,3 +1,5 @@
+# This script queues all scripts to extract results for this paper
+
 ### MAIN
 rm(list=ls())
 master_toggles = list(setting_beta = "PNG_low_beta",
