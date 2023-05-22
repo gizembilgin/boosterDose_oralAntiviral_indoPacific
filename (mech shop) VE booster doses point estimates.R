@@ -1,5 +1,5 @@
 ### This (mech shop) creates point estimates of d = 3 (booster) heterologous combinations with Pfizer
-# strains  = "omicron" (no booster doses till omicron in SLE)
+# strains  = "omicron"
 # outcomes = "any_infection"       "death"               "severe_disease"      "symptomatic_disease"
 # vaccine type =  "Pfizer"  (with previous primary doses in AZ, Sinovac or Pfizer)
 

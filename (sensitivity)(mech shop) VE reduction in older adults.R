@@ -1,6 +1,7 @@
 ### This (mech shop) sets up for sensitivity analysis for lower VE against severe outcomes in older adults including.
 ### This reduction in VE against severe outcomes includes: (1) a faster speed of waning, and (2) lower strength of inital protection.
 ### Creates:SA_VE_older_muted_SO
+### NB: this is the default assumption for the second (antiviral) paper
 
 
 require(ggpubr); require(readr); require(gridExtra); require(ggplot2); require(tidyverse);

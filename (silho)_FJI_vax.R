@@ -1,4 +1,4 @@
-#This program is our best guess as to the distribution of doses delivered in FIji by age/risk/vaccine type based on governement annoucements, the Oxford tracker, and UNICEF Market Dashboard
+#This program is our best guess as to the distribution of doses delivered in Fiji by age/risk/vaccine type based on government announcements, the Oxford tracker, and UNICEF Market Dashboard
 this_setting = "FJI"
 
 
