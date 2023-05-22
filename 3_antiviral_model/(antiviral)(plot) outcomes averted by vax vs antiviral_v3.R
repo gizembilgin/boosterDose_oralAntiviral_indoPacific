@@ -4,7 +4,7 @@
 library(RColorBrewer)
 options(scipen = 1000)
 
-plot_name = "figure_S3_1_3" #figure_1, figure_2, figure_S3_1_2,figure_S3_1_3,"figure_S3_2_1","figure_S3_2_3", "figure_S2_4"
+plot_name = "figure_1" #figure_1, figure_2, figure_S3_1_2,figure_S3_1_3,"figure_S3_2_1","figure_S3_2_3", "figure_S2_4"
 plot_list = list()
 
 #LIST_outcomes = list('hosp', 'severe_disease','YLL','death') # for extended plot (SM?)
@@ -34,6 +34,7 @@ if (plot_name ==  "figure_S3_2_1"){
 MASTER_RECORD_antiviral_model_simulations = data.frame()
 
 rootpath = str_replace(getwd(), "GitHub_vaxAllocation","")
+rootpath = str_replace(getwd(), "GitHub_chapter_3/indoPacific_COVID19_model","")
 for (r in 1:length(risk_groups_to_plot)){
   this_risk_group = risk_groups_to_plot[r]
   for (i in 1:length(settings_to_plot)){
