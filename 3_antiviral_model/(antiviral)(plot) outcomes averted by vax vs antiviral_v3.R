@@ -1,3 +1,6 @@
+
+### This script creates our paper's figures
+
 library(RColorBrewer)
 options(scipen = 1000)
 

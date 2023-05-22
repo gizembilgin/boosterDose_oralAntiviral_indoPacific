@@ -1,5 +1,5 @@
 ###This script creates VE_waning_distribution for VE_time_step in two steps:
-#(1) Averaging booster dose effectiveness across heterogenous combinations
+#(1) Averaging booster dose effectiveness across heterogeneous combinations
 #(2) Forcing dose 1 < dose 2 < ...
 
 VE_waning_distribution_expander <- function(VE_waning_distribution, 

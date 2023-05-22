@@ -1,4 +1,6 @@
 
+### This script examines changes in the incidence of disease by varying booster dose strategies in various age groups
+
 cases_averted_log = data.frame()
 vaccine_coverage_log = data.frame()
 
