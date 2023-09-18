@@ -1,5 +1,5 @@
 # indoPacific_COVID19_model
-**Associated paper**: Assessing the potential impact of oral COVID-19 antivirals and booster doses: a mathematical modelling study of selected middle-income countries in the Indo-Pacific [working paper]
+**Associated paper**: Assessing the potential impact of oral COVID-19 antivirals and booster doses: a mathematical modelling study of selected middle-income countries in the Indo-Pacific - published in Vaccine: X, see https://doi.org/10.1016/j.jvacx.2023.100386
 
 ## Abstract
 Booster doses and oral antivirals provide two options for reducing severe outcomes associated with COVID-19. In this project, we use a mathematical model to explore the benefits of booster doses and oral 
